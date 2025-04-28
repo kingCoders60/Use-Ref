@@ -1,0 +1,7 @@
+Notes on UseRef..
+UseRef se ye hota ki ki uske ander ek current elemetn jsai store hota hai...
+
+userefe apne values ko persist karta hai across rerender.
+
+State-Var->change->Ui rerender
+useRef->change->No Re render of ui.
